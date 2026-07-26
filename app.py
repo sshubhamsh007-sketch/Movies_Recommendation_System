@@ -7,7 +7,7 @@ import streamlit as st
 # =============================
 
 # LOCAL
-API_BASE = "http://127.0.0.1:8000"
+API_BASE = "https://movies-recommendation-system-e34r.onrender.com" or "http://127.0.0.1:8000"
 
 # RENDER (uncomment when deployed)
 # API_BASE = "https://movie-rec-466x.onrender.com"
